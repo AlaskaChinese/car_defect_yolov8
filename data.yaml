@@ -1,0 +1,15 @@
+names:
+- dirt
+- runs
+- scratch
+- water marks
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: final-year-car-paint-defect
+  url: https://universe.roboflow.com/poli-h7nww/final-year-car-paint-defect/dataset/1
+  version: 1
+  workspace: poli-h7nww
+test: /kaggle/input/datasets/alaskayang/final-year-car-paint-defect-v1i-yolov8/test/images
+train: /kaggle/input/datasets/alaskayang/final-year-car-paint-defect-v1i-yolov8/train/images
+val: /kaggle/input/datasets/alaskayang/final-year-car-paint-defect-v1i-yolov8/valid/images
